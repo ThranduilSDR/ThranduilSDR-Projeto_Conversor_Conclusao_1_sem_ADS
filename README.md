@@ -2,3 +2,5 @@
 Projeto de Conclusão do 1º Sem de TADS UMC- Software Básico - Conversor de Medidas/Moedas - Linguagem Estruturada - Somente Terminal
 
 Dada a proposta do projeto Conversor M2, para a conclusão do 1º Semestre de Software Básico, do curso Superior de Tecnologia em Analise e Desenvolvimento de Sistemas, cursado na Universidade de Mogi das Cruzes. Foi realizado a implementação deste utilizando da linguagem C#, trabalhando em conjunto com API para absorção de dados online, e com Json na manipulação de tais dados.
+
+![image](https://user-images.githubusercontent.com/95830343/145315541-a9ad184b-df8e-4579-a567-b50826ac778e.png)
