@@ -1,0 +1,35 @@
+C:\Users\Emanuel Vitor\source\repos\Aula 11\M2 Conversor\obj\Debug\M2 Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Vitor\source\repos\Aula 11\M2 Conversor\bin\Debug\M2 Conversor.exe.config
+C:\Users\Emanuel Vitor\source\repos\Aula 11\M2 Conversor\bin\Debug\M2 Conversor.exe
+C:\Users\Emanuel Vitor\source\repos\Aula 11\M2 Conversor\bin\Debug\M2 Conversor.pdb
+C:\Users\Emanuel Vitor\source\repos\Aula 11\M2 Conversor\obj\Debug\M2 Conversor.csprojAssemblyReference.cache
+C:\Users\Emanuel Vitor\source\repos\Aula 11\M2 Conversor\obj\Debug\M2 Conversor.exe
+C:\Users\Emanuel Vitor\source\repos\Aula 11\M2 Conversor\obj\Debug\M2 Conversor.pdb
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\bin\Debug\M2 Conversor.exe.config
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\bin\Debug\M2 Conversor.exe
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\bin\Debug\M2 Conversor.pdb
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\obj\Debug\M2 Conversor.csproj.CoreCompileInputs.cache
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\obj\Debug\M2 Conversor.exe
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\obj\Debug\M2 Conversor.pdb
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\obj\Debug\M2 Conversor.csproj.AssemblyReference.cache
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\bin\Debug\Newtonsoft.Json.dll
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\bin\Debug\Newtonsoft.Json.xml
+D:\Backuo NITRO5\Documentos\source\repos\Aula 11\M2 Conversor\obj\Debug\M2 Conversor.csproj.CopyComplete
+D:\Backuo NITRO5\Documentos\Documents\UMC\Software Basico\Silvia\Atividades\M2 Conversor\bin\Debug\M2 Conversor.exe.config
+D:\Backuo NITRO5\Documentos\Documents\UMC\Software Basico\Silvia\Atividades\M2 Conversor\bin\Debug\M2 Conversor.exe
+D:\Backuo NITRO5\Documentos\Documents\UMC\Software Basico\Silvia\Atividades\M2 Conversor\bin\Debug\M2 Conversor.pdb
+D:\Backuo NITRO5\Documentos\Documents\UMC\Software Basico\Silvia\Atividades\M2 Conversor\bin\Debug\Newtonsoft.Json.xml
+D:\Backuo NITRO5\Documentos\Documents\UMC\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.csproj.AssemblyReference.cache
+D:\Backuo NITRO5\Documentos\Documents\UMC\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.csproj.CoreCompileInputs.cache
+D:\Backuo NITRO5\Documentos\Documents\UMC\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.csproj.CopyComplete
+D:\Backuo NITRO5\Documentos\Documents\UMC\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.exe
+D:\Backuo NITRO5\Documentos\Documents\UMC\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.pdb
+D:\Backuo NITRO5\Documentos\Documents\UMC\1st Semester\Software Basico\Silvia\Atividades\M2 Conversor\bin\Debug\M2 Conversor.exe.config
+D:\Backuo NITRO5\Documentos\Documents\UMC\1st Semester\Software Basico\Silvia\Atividades\M2 Conversor\bin\Debug\M2 Conversor.exe
+D:\Backuo NITRO5\Documentos\Documents\UMC\1st Semester\Software Basico\Silvia\Atividades\M2 Conversor\bin\Debug\M2 Conversor.pdb
+D:\Backuo NITRO5\Documentos\Documents\UMC\1st Semester\Software Basico\Silvia\Atividades\M2 Conversor\bin\Debug\Newtonsoft.Json.xml
+D:\Backuo NITRO5\Documentos\Documents\UMC\1st Semester\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.csproj.AssemblyReference.cache
+D:\Backuo NITRO5\Documentos\Documents\UMC\1st Semester\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.csproj.CoreCompileInputs.cache
+D:\Backuo NITRO5\Documentos\Documents\UMC\1st Semester\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.csproj.CopyComplete
+D:\Backuo NITRO5\Documentos\Documents\UMC\1st Semester\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.exe
+D:\Backuo NITRO5\Documentos\Documents\UMC\1st Semester\Software Basico\Silvia\Atividades\M2 Conversor\obj\Debug\M2 Conversor.pdb
